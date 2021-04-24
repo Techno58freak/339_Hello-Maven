@@ -1,0 +1,8 @@
+Project id: 339
+
+github  https://github.com/Techno58freak/339_Hello-Maven (fetch)
+github  https://github.com/Techno58freak/339_Hello-Maven (push)
+origin  http://192.168.178.32/java-projects/java-spring-tutorial-masterclass---learn-spring-framework-5/hello-maven (fetch)
+origin  http://192.168.178.32/java-projects/java-spring-tutorial-masterclass---learn-spring-framework-5/hello-maven (push)
+
+Course URL: https://www.udemy.com/course/java-spring-framework-masterclass/learn/lecture/10336408#overview
